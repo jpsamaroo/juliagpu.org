@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on JuliaGPU</title>
+    <link>https://juliagpu.org/post/</link>
+    <description>Recent content in Blog on JuliaGPU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://juliagpu.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CUDAnative 3.0 and CuArrays 2.0</title>
+      <link>https://juliagpu.org/cudanative_3.0-cuarrays_2.0/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliagpu.org/cudanative_3.0-cuarrays_2.0/</guid>
+      <description>This release of the Julia CUDA stack contains some exciting new features: automatic installation of CUDA using artifacts, full support for GPU method redefinitions, and experimental support for multitasking and multithreading. The release is technically breaking, but most end-users should not be affected.
+API changes Changes to certain APIs require these releases to be breaking, however, most users should not be affected and chances are you can just bump your Compat entries without any additional changes.</description>
+    </item>
+    
+    <item>
+      <title>Julia&#39;s Dramatic Rise in HPC and Elsewhere</title>
+      <link>https://juliagpu.org/2020-01-14-hpcwire/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliagpu.org/2020-01-14-hpcwire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Tensor Computations in Julia with the GPU</title>
+      <link>https://juliagpu.org/2020-01-05-itensors/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliagpu.org/2020-01-05-itensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New website for JuliaGPU</title>
+      <link>https://juliagpu.org/new_site/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliagpu.org/new_site/</guid>
+      <description>Welcome to the new landing page for the JuliaGPU organization. This website serves as an introduction to the several packages for programming GPUs in Julia, with pointers to relevant resources for new users.
+The sources for this website are hosted at GitHub and generated using Hugo, feel free to open an issue or pull request if you think it could be improved.</description>
+    </item>
+    
+    <item>
+      <title>DifferentialEquations.jl v6.9.0 released with automatic Multi-GPU support</title>
+      <link>https://juliagpu.org/2019-12-03-diffeq-0.6.9/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliagpu.org/2019-12-03-diffeq-0.6.9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia Computing Brings Support for NVIDIA GPU Computing on Arm Powered Servers</title>
+      <link>https://juliagpu.org/2019-12-03-nvidia-arm-gpu/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliagpu.org/2019-12-03-nvidia-arm-gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Introduction to GPU Programming in Julia</title>
+      <link>https://juliagpu.org/2019-10-17-nextjournal-intro/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliagpu.org/2019-10-17-nextjournal-intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DifferentialEquations.jl v6.4.0 released with full GPU ODE support</title>
+      <link>https://juliagpu.org/2019-05-09-diffeq-0.6.4/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliagpu.org/2019-05-09-diffeq-0.6.4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next Generation Climate Models leverage Julia and GPUs</title>
+      <link>https://juliagpu.org/2019-03-04-nps-clima-gpu/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliagpu.org/2019-03-04-nps-clima-gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Climate Model to be Built from the Ground Up</title>
+      <link>https://juliagpu.org/2018-12-12-paoc-clima/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliagpu.org/2018-12-12-paoc-clima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving Systems of Stochastic PDEs and using GPUs in Julia</title>
+      <link>https://juliagpu.org/2017-12-11-diffeq-stochastic_pdes/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliagpu.org/2017-12-11-diffeq-stochastic_pdes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Performance GPU Computing in the Julia Programming Language</title>
+      <link>https://juliagpu.org/2017-10-25-nvidia-devblog/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliagpu.org/2017-10-25-nvidia-devblog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
